@@ -12,6 +12,6 @@ int main()
  if (T[i]<0 && T[i]>max) max=T[i];
 
  printf("max=%d\n",max);
-
+dinararrrra men engizdim
 }
 }
